@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Bohemian Rhapsody",
+    "artist": "Queen",
+    "album": "A Night at the Opera",
+    "length": 355
+  },
+  {
+    "name": "Stairway to Heaven",
+    "artist": "Led Zeppelin",
+    "album": "Led Zeppelin IV",
+    "length": 482
+  },
+  {
+    "name": "Hotel California",
+    "artist": "Eagles",
+    "album": "Hotel California",
+    "length": 391
+  },
+  {
+    "name": "Smells Like Teen Spirit",
+    "artist": "Nirvana",
+    "album": "Nevermind",
+    "length": 301
+  },
+  {
+    "name": "Eclipse",
+    "artist": "Pink Floyd",
+    "album": "The Dark Side of The Moon",
+    "length": 130
+  }
+]
